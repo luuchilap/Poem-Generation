@@ -2,8 +2,12 @@ This project involves training a Transformer model to generate poetry. The Text 
 
 The project integrates various components:
 •	Data Preparation: Reading, normalizing, tokenizing, and vectorizing the dataset.
+
 •	Dataset Handling: Creating a custom dataset class for managing input sequences and padding.
+
 •	Model Definition: Implementing a Transformer model with positional encoding.
+
 •	Training: Implementing a training loop to optimize the model.
+
 •	Inference: Generating new poems using the trained model and sampling technique.
 
