@@ -1,5 +1,7 @@
 This project involves training a Transformer model to generate poetry. The Text Project focused on Poem Generation navigates through a spectrum of NLP techniques, beginning with Text Classification and advancing through POS Tagging, showcasing the potential of AI to not only understand but also create content that resonates on a human level.
-![image](https://github.com/luuchilap/Poem-Generation/assets/145787303/a4f89cc6-1976-4e3d-b334-1ba7882b0514)
+
+![image](https://github.com/luuchilap/Poem-Generation/assets/145787303/a90ef2ed-5e16-4947-8ff5-0fdddcadf4ea)
+
 The project integrates various components:
 •	Data Preparation: Reading, normalizing, tokenizing, and vectorizing the dataset.
 
