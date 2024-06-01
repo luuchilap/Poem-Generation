@@ -3,9 +3,9 @@
 This project focuses on building an AI model for generating Vietnamese poems using text generation techniques, a subset of natural language processing (NLP). Text generation models create new sentences based on input data, offering creative outputs applicable in various contexts. The project aims to generate complete Vietnamese poems from an initial user-provided phrase.
 
 
-**Project Phases
+**Project Phases**
 
-**1. Data Collection
+**1. Data Collection**
 
 Source: Poems are collected from thivien.net, a comprehensive website featuring various Vietnamese literary works.
 
