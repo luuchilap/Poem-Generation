@@ -1,4 +1,4 @@
-Dataset: Using selenium to crawl data from https://www.thivien.net/ website.
+## Dataset: Using selenium to crawl data from https://www.thivien.net/ website.
 
 This project involves training a Transformer model to generate poetry. The Text Project focused on Poem Generation navigates through a spectrum of NLP techniques, beginning with Text Classification and advancing through POS Tagging, showcasing the potential of AI to not only understand but also create content that resonates on a human level.
 
