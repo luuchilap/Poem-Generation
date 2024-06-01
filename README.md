@@ -34,20 +34,35 @@ Tools and Methods:
 **2. Model Building**
 
   -Model: GPT-2 (Generative Pre-trained Transformer 2), a large language model developed by OpenAI, based on the Transformer architecture.
+  
   -Process:
+  
     +Library Installation: Necessary libraries such as datasets, evaluate, transformers, and accelerate are installed.
+    
     +Data Preparation:
+    
       Load the collected poem data from the .csv file.
+      
       Process the poems by splitting them into suitable samples for model training.
+      
     +Model Fine-Tuning:
+    
       Use the pre-trained GPT-2 model.
+      
       Fine-tune the model specifically for Vietnamese poem generation using the prepared dataset.
+      
 **Implementation Details**
+
 Data Processing
+
     -CSV Handling: The poems are read from the .csv file into a DataFrame.
-    -Sample Creation: Each poem is divided into smaller parts (stanzas) to create          manageable training samples.
+    
+    -Sample Creation: Each poem is divided into smaller parts (stanzas) to create manageable training samples.
+    
 Model Training
+
     -Tokenizer and Model Initialization: GPT2Tokenizer and GPT2LMHeadModel from the HuggingFace library are utilized.
+    
     -Training Setup: Define training arguments and initiate the training process using the HuggingFace Trainer class.
 
 
